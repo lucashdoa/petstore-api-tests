@@ -1,0 +1,24 @@
+{
+  "name": "petstore-api-tests",
+  "version": "1.0.0",
+  "description": "🤡 A demo API testing project using Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashdoa/petstore-api-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucashdoa/petstore-api-tests/issues"
+  },
+  "homepage": "https://github.com/lucashdoa/petstore-api-tests#readme",
+  "devDependencies": {
+    "jest": "^27.0.3",
+    "node-fetch": "^2.6.1"
+  }
+}
