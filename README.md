@@ -24,7 +24,8 @@ System under test: [Swagger Petstore](petstore.swagger.io/v2)
 
 ## 🚥 Test Cases by Routes
 
-| ID    | Name                       | Completion |
-| ----- | -------------------------- | ---------- |
-| CT-01 | Add a new pet to the store | ✔          |
-| CT-02 | Finds Pets by status       | ✔          |
+| ID    | Name                                  | Completion |
+| ----- | ------------------------------------- | ---------- |
+| CT-01 | Add a new pet to the store            | ✔          |
+| CT-02 | Finds Pets by status - Valid Status   | ✔          |
+| CT-03 | Finds Pets by status - Invalid Status | ✔          |
